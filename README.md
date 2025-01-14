@@ -2,6 +2,11 @@
 
 Documentação do processo de migração de um site WordPress entre diferentes hosts, incluindo mudança do sistema de multi-idiomas.
 
+![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 ## Contexto
 - Migração de SiteGround para Hostgator
 - Substituição do plugin Weglot pelo Falang
